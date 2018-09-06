@@ -23,3 +23,4 @@ The paradigms are not exclusive, but reflect the different emphasis of language 
 
 References
 - https://www.cs.bham.ac.uk/research/projects/poplog/paradigms_lectures/lectures.html
+- http://people.cs.aau.dk/~normark/prog3-03/pdf/paradigms.pdf
