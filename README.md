@@ -8,7 +8,7 @@ What are different Programming Paradigms?
 - The Object-Oriented Paradigm
 - The Scheme Language
 
-This repo is concerned with the study of programming language paradigms , that is the various systems of ideas that have been used to guide the design of programming languages. These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm.
+This repo is concerned with the study of programming language paradigms , that is the various systems of ideas that have been used to guide the design of programming languages. These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm. This repo contains folders for every paradigm with examples and their implementations.
 
 - Imperative: The language provides statements, such as assignment statements , which explicitly change the state of the memory of the computer.
 - Functional: In this paradigm we express computations as the evaluation of mathematical functions.
