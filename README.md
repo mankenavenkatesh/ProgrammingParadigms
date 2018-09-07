@@ -1,5 +1,5 @@
 # ProgrammingParadigms
-This repo is about becoming language agnoistic. -Should understand different programming paradigms and think programming languages in terms of paradigms
+This repo is about becoming language agnostic. -Should understand different programming paradigms and think programming languages in terms of paradigms
 
 - This repo is concerned with the study of programming language paradigms , that is the various systems of ideas that have been used to guide the design of programming languages. 
 - These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm.
