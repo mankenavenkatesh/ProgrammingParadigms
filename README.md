@@ -12,13 +12,13 @@ This repo is about becoming language agnoistic. -Should understand different pro
 - The Object-Oriented Paradigm
 - The Scheme Language
 
-#### Approach
+### Approach
 - This repo contains folders for every paradigm.
 - Every folder explains about the paradigm in detail with examples.
 - Every folder contains references to - how this paradigm is used in different programming languages.
 
 
-References
+#### References
 - https://www.youtube.com/watch?v=cgVVZMfLjEI
 - https://www.cs.bham.ac.uk/research/projects/poplog/paradigms_lectures/lectures.html
 - http://people.cs.aau.dk/~normark/prog3-03/pdf/paradigms.pdf
