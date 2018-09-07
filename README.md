@@ -5,7 +5,7 @@ This repo is about becoming language agnoistic. -Should understand different pro
 - These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm.
 - The paradigms are not exclusive, but reflect the different emphasis of language designers. Most practical imperative, functional and object-oriented languages embody features of more than one paradigm.
 
-What are different Programming Paradigms?
+## What are different Programming Paradigms?
 - The Functional Paradigm
 - The Imperative Paradigm
 - The Logic Paradigm
