@@ -1,6 +1,10 @@
 # ProgrammingParadigms
 This repo is about becoming language agnoistic. -Should understand different programming paradigms and think programming languages in terms of paradigms
 
+- This repo is concerned with the study of programming language paradigms , that is the various systems of ideas that have been used to guide the design of programming languages. 
+- These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm.
+- The paradigms are not exclusive, but reflect the different emphasis of language designers. Most practical imperative, functional and object-oriented languages embody features of more than one paradigm.
+
 What are different Programming Paradigms?
 - The Functional Paradigm
 - The Imperative Paradigm
@@ -8,14 +12,10 @@ What are different Programming Paradigms?
 - The Object-Oriented Paradigm
 - The Scheme Language
 
-This repo is concerned with the study of programming language paradigms , that is the various systems of ideas that have been used to guide the design of programming languages. These paradigms are realised to a greater or lesser extent in various computer languages, although the design of a given language may reflect the influence of more than one paradigm. This repo contains folders for every paradigm with examples and their implementations.
-
-- Imperative: The language provides statements, such as assignment statements , which explicitly change the state of the memory of the computer.
-- Functional: In this paradigm we express computations as the evaluation of mathematical functions.
-- Logic: In this paradigm we express computation in exclusively in terms of mathematical logic
-- Object-Oriented: In this paradigm we associate behaviour with data-structures called " objects " which belong to classes which are usually structured into a hierarchy.
-
-The paradigms are not exclusive, but reflect the different emphasis of language designers. Most practical imperative, functional and object-oriented languages embody features of more than one paradigm.
+#### Approach
+- This repo contains folders for every paradigm.
+- Every folder explains about the paradigm in detail with examples.
+- Every folder contains references to - how this paradigm is used in different programming languages.
 
 
 References
