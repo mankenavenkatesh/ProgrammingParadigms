@@ -24,3 +24,4 @@ This repo is about becoming language agnostic. -Should understand different prog
 - http://people.cs.aau.dk/~normark/prog3-03/pdf/paradigms.pdf
 - http://websrv.dthu.edu.vn/attachments/newsevents/content2415/Programming_Languages_-_Principles_and_Paradigms_thereds1106.pdf
 - https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_7_Programming_Paradigms.pdf
+- https://www.youtube.com/watch?v=cgVVZMfLjEI
