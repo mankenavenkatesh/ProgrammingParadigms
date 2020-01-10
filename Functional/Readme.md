@@ -5,3 +5,52 @@ In this paradigm we express computations as the evaluation of mathematical funct
 
 
 Functional Programming in the process of building software by using pure functions, avoiding shared state, mutable data and side-effects.
+
+
+
+Jargons of Functional Programming
+- Higher order functions
+- Pure functions
+- Type strictness
+- Recursion
+- Immutability
+- Category Theory
+- Lambda calculus
+- Currying
+
+
+Core idea of Functional programming  - NO SIDE EFFECTS
+
+
+DEFINITION of Functional Programming
+- Programming with functions as building blocks
+- Programming with pure functions as building blocks
+- Functional programming is programming without assignment statements
+
+
+Expression vs Statement
+- Expression have no side effect
+- checks conditions and returns value
+- Statement have side effects
+- contains assignments
+
+
+#PSEUDO CODE:
+#Statement
+Int weight = 50 //kg
+String comment = ""
+if (x > 70) {
+    comment = "Slim down, bro"
+}else {
+    comment = "you look fit"
+}
+
+#Expression
+Int weight = 50 //kg
+String comment = x>70? "Slim down, bro" : "You look fit!"
+
+
+
+References 
+- https://www.youtube.com/watch?v=iSs3LdUZziU
+- https://hackr.io/blog/functional-programming
