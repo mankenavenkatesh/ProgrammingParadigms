@@ -16,13 +16,14 @@ Functional Programming in the process of building software by using pure functio
 
 Functional programming is originated from lambda calculus. 
 
-What is lambda calculus?
+## What is lambda calculus?
 https://www.youtube.com/watch?v=d0yEXKas8xE
 https://www.youtube.com/watch?v=9T8A89jgeTI
 https://www.youtube.com/watch?v=v1IlyzxP6Sg&list=PLDAqk5znTEXeQwDstVk5uzsNmj3RTMlVg 
 
-you can express any mathematical probelm in lamda calculus. 
+- you can express any mathematical probelm in lamda calculus. 
 
+```
 Three rules of lambda calculus
 1. variable (x,y,z,)
 2. abstraction  (lambda * term . )
@@ -42,11 +43,7 @@ Currying - if there is function which takes x, y and returns x+y
 with currying you can have function which takes x and return another function which takes y as parameter and returns x + y.
 
 currying will delay the executing of function.
-
-
-
-## Lambda calculus 
-- fundamentals of functional programming
+```
 
 
 ## Convert programs to lambda and vice versa
