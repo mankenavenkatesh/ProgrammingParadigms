@@ -7,8 +7,20 @@ In this paradigm we express computations as the evaluation of mathematical funct
 Functional Programming in the process of building software by using pure functions, avoiding shared state, mutable data and side-effects.
 
 
+## Definition of Functional Programming
+- Programming with functions as building blocks
+- Programming with pure functions as building blocks
+- Functional programming is programming without assignment statements
 
-Jargons of Functional Programming
+## Lambda calculus 
+- fundamentals of functional programming
+
+
+## Convert programs to lambda and vice versa
+https://www.youtube.com/watch?v=3VQ382QG-y4&t=1088s
+
+
+## Jargons of Functional Programming
 - Higher order functions
 - Pure functions
 - Type strictness
@@ -22,10 +34,6 @@ Jargons of Functional Programming
 Core idea of Functional programming  - NO SIDE EFFECTS
 
 
-DEFINITION of Functional Programming
-- Programming with functions as building blocks
-- Programming with pure functions as building blocks
-- Functional programming is programming without assignment statements
 
 
 Expression vs Statement

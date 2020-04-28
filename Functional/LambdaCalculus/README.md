@@ -51,8 +51,37 @@ Examples
     (\a.ab) (\x.xx)  takes argument (\x.xx) and returns (\x.xx)b
 
     (\x.xx)b takes argument b and returns bb    
+
+    Note...
+    This is an example of function taking another function as an argument
 ```
 
+# Labmda Expression returning another lambda expression
+Examples
+```
+    \a.(\b.abz)qr becomes qrz
+    How?
+
+    \a.(\b.abz)qr takes argument q and returns (\b.qbz)r
+    (\b.qbz)r becomes qrz
+
+    Note...
+    This is an example of function returning another function. (Nested functions)
+    Inner function has access to outer function variables. 
+    CLOSURE PROPERY
+
+```
+
+# Lambda Expressions with multiple arguments
+Examples
+```
+    All lambda expressions may have only one parameter.
+
+    How to write functions that take multiple arguments?
+
+    \ab.abz is equivalent to \a.(\b.abz)
+
+```
 
 References
 - https://www.youtube.com/watch?v=9Q-Bi-Cg9tI
