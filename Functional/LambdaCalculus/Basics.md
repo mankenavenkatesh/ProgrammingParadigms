@@ -83,5 +83,10 @@ Examples
 
 ```
 
+# Build Functional programming language from lambda calculus
+- https://www.amazon.in/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831
+
+
 References
 - https://www.youtube.com/watch?v=9Q-Bi-Cg9tI
+- https://brilliant.org/wiki/lambda-calculus/

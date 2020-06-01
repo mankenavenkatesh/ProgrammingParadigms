@@ -93,3 +93,4 @@ References
 - https://www.youtube.com/watch?v=iSs3LdUZziU
 - https://www.youtube.com/watch?v=FYXpOjwYzcs
 - https://hackr.io/blog/functional-programming
+- https://www.amazon.in/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831
