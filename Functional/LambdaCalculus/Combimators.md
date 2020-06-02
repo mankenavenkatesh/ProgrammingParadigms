@@ -1,4 +1,13 @@
 # Combinators in Lambda
+- Combinators are functions with no free variables.
+- Free variable - variable in the body not bound to any parameter.
+```
+Examples
+  \b.b combinator
+  \b.a not a combinator
+```
+
+
 
 ## Various Combinators
 ```
@@ -36,6 +45,38 @@
     K(K)(M) = K
     K(M)(I) = M
 ```
+
+```
+3. KITE => 
+  - Lambda expression => \ab.b
+  - in programming, represented as KI = a => b => b
+  - First argument is irrelevant. Always returns second argument.
+
+  KITE combinator is derived by combining KESTREL and IDENTITY
+
+  Examples: 
+    KI(M)(K) = K
+    KI(K)(M) = M    
+```
+
+
+
+```
+3. CARDINAL => 
+  - Lambda expression => \fab.fba
+  - in programming, represented as C = f => a => b => f(b)(a)
+  - It takes a function `f` with two arguments (a, b) and calls that function with (b, a) arguments. Just flips the arguments.
+
+  KITE combinator is derived by combining KESTREL and IDENTITY
+
+  Examples: 
+    CKIM == K(M)(I) == M == KI(I)(M)
+
+```
+
+## Why Combinators?
+- 
+
 
 References
 - https://www.youtube.com/watch?v=3VQ382QG-y4&t=1088s

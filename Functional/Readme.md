@@ -94,3 +94,5 @@ References
 - https://www.youtube.com/watch?v=FYXpOjwYzcs
 - https://hackr.io/blog/functional-programming
 - https://www.amazon.in/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831
+- https://livebook.manning.com/book/functional-programming-in-c-sharp/chapter-1/
+- https://github.com/la-yumba/functional-csharp-code

@@ -1,4 +1,5 @@
 # Lambda Expression
+- Lambda calculus and Turing machines are Equivalent
 
 # Functions as Lambda Expression
 ```
